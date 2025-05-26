@@ -1,7 +1,7 @@
 # Documentación de la Aplicación de Gestión Veterinaria
 Ídice
  
--- Documentación de la Aplicación de Gestión Veterinaria
+- Documentación de la Aplicación de Gestión Veterinaria
 * Indice
 * Introduccíon
 * Instalación
@@ -19,7 +19,7 @@ Para instalar y configurar la aplicación en un entorno local, sigue los siguien
 
 1. Clonar el reporistorio desde GitHub:
 
-``` git clone https://github.com/joliverar/jinoReto.git
+``` git clone https://github.com/joliverar/jinoReto.git ```
 
 2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode, Intellig...).
 
@@ -57,9 +57,9 @@ Lo representamos a travez del siguiente digrama de caso de uso
 ¿Quieres colaborar en el desarrollo?
 
 1. HAz un fork del repositorio
-2. Crea una nueva rama ```(git checkout -b feature/tu-mejora)
-3. Realiza tus cambios y haz ```commit(git commit -am 'Agrega nueva funcionalidad').
-4. Haz push a la rama (git push origin feature/nueva-funcionalidad).
+2. Crea una nueva rama ```(git checkout -b feature/tu-mejora) ```
+3. Realiza tus cambios y haz ```commit(git commit -am 'Agrega nueva funcionalidad').```
+4. Haz push a la rama ```(git push origin feature/nueva-funcionalidad).```
 5. Abre un pull request su revisión
 
 ## Subvención

@@ -11,7 +11,7 @@
 
 ## Introducción
 
-El sistema de Gestión Veterinaria desarrollado por el alumnado del IES Miguel Herrero Pereda permite a pacientes, médicos y administradores las operaciones básicas de un centro veterinario de forma segura y eficiente
+El sistema de Gestión Veterinaria desarrollado por el alumnado del **IES Miguel Herrero Pereda** permite a pacientes, médicos y administradores las operaciones básicas de un centro veterinario de forma segura y eficiente
 
 ## Instalación
 
@@ -42,13 +42,13 @@ Para utilizar la aplicación, sigue las instrucciones proporcionadas en la inter
 A continuación se detalla la función dentro del sistema de cada uno de los usuarios
 
 ```
-Usuario      Funcionalidad
+**Usuario**      **Funcionalidad**
 --------------------------------
-Paciente      Solicitar citas, Accde a su historial, contacta con el medico
+Paciente         Solicitar citas, Accde a su historial, contacta con el medico
 --------------------------------
-Veterinario   Gestiona citas, consulta historiales, emite facturas
+Veterinario      Gestiona citas, consulta historiales, emite facturas
 ----------------------------------
-Administrador   Administrar personal, informe y facturacion
+Administrador    Administrar personal, informe y facturacion
 ```
 Lo representamos a travez del siguiente digrama de caso de uso
 

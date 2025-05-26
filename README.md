@@ -11,7 +11,7 @@
 
 ## Introducción
 
-``` El sistema de Gestión Veterinaria desarrollado por el alumnado del IES Miguel Herrero Pereda permite a pacientes, médicos y administradores las operaciones básicas de un centro veterinario de forma segura y eficiente
+El sistema de Gestión Veterinaria desarrollado por el alumnado del IES Miguel Herrero Pereda permite a pacientes, médicos y administradores las operaciones básicas de un centro veterinario de forma segura y eficiente
 
 ## Instalación
 
